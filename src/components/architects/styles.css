@@ -1,0 +1,33 @@
+.archContainer {
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+.archWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.archHeader {
+    position: relative;
+    top: -26vh;
+    left: -10vw;
+    height: 44vh;
+    width: 160vw;
+    background-color: black;
+    transform: rotate(-9deg);
+}
+.logo {
+    width: 16rem;
+    transform: rotate(9deg);
+    position: relative;
+    top: 15vh;
+    left: 12vw;
+}
+@media only screen and (max-width: 650px) {
+    .logo {
+        width: 11rem;
+        top: 26vh;
+    }
+}

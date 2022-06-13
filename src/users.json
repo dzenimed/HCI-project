@@ -1,0 +1,215 @@
+[ 
+  {
+    "id": 1,
+    "name": "Jane",
+    "lastname": "Grakowsky",
+    "description": "Interior designer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGqD7JzZ0_UO5BtivwsmjnH0DJth9MGG98VE70FCLfkGhrF7xWrG37bzWtBHtrLwvR9I&usqp=CAU",
+    "city": "Sarajevo",
+    "skills": ["Bilingual", "Budgeting", "Model Making"],
+    "experience": [
+      { "years": 3, "company": "Grantony" },
+      { "years": 5, "company": "mos Archonis Sarajevo" }
+    ],
+    "projects": [
+      {
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf"
+      }
+    ],
+    "socialMedia": [{"facebook": "https://www.facebook.com/ArchiDesiign",
+    "instagram": "https://www.instagram.com/eyrcarchitects/?hl=en",
+    "twitter": "https://twitter.com/HomeAdore",
+    "page": "https://www.unstudio.com/"}]
+  },
+    {
+      
+      "id": 2,
+      "name": "Morris",
+      "lastname": "West",
+      "description": "AutoCAD designer",
+      "image" : "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "city" : "Banja Luka",
+      "skills" : ["AutoCAD", "Drafting", "Drawing", "Model Making"],
+      "experience" : [{"years" : 1, "company" : "Grantony"}, {"years" : 2, "company" : "mos Archonis Sarajevo"}],
+      "projects" : [{
+          "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+          "project_title": "Shopping mall"
+        },
+        {
+          "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+          "project_title": "Backyard Design"
+        }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 3,
+      "name": "Christine",
+      "lastname": "Harper",
+      "description": "Exterior designer",
+      "image" : "https://static.generated.photos/vue-static/home/feed/adult.png",
+      "city" : "Banja Luka",
+      "skills" : ["Drafting", "Drawing", "Model Making", "Revit"],
+      "experience" : [{"years" : 2, "company" : "Grantony"}],
+      "projects" : [{
+          "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+          "project_title": "Shopping mall"
+        },
+        {
+          "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+          "project_title": "Backyard Design"
+        }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 4,
+      "name": "Jenny",
+      "lastname": "Holland",
+      "description": "Building surveyor",
+      "image" : "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "city" : "Sarajevo",
+      "skills" : ["Bilingual", "Budgeting", "Data Analyst"],
+      "experience" : [{"years" : 1, "company" : "mos Archonis Sarajevo"}],
+      "projects" : [{
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+        "project_title": "Shopping mall"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+        "project_title": "Backyard Design"
+      }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 5,
+      "name": "Randall",
+      "lastname": "Amstrong",
+      "description": "Urban planner",
+      "image" : "https://cdn.youpic.com/huge/1416143_3ogqbsrvmm1khn4ehg9m5ucmtm_103510.jpg",
+      "city" : "Banja Luka",
+      "skills" : ["Data Analyst", "Drawing", "Model Making"],
+      "experience" : [{"years" : 3, "company" : "Grantony"}, {"years" : 3, "company" : "mos Archonis Sarajevo"}],
+      "projects" : [{
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+        "project_title": "Shopping mall"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+        "project_title": "Backyard Design"
+      }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 6,
+      "name": "Lydia",
+      "lastname": "Cole",
+      "description": "Structural engineer",
+      "image" : "http://1.bp.blogspot.com/-kq-khZf2Njg/UP-TLgoBGtI/AAAAAAAAA-Q/Qvi0vTPSpuw/s1600/Standard2.jpg",
+      "city" : "Sarajevo",
+      "skills" : ["AutoCAD", "Drafting", "Drawing"],
+      "experience" : [{"years" : 1, "company" : "Grantony"}, {"years" : 2, "company" : "mos Archonis Sarajevo"}, {"years" : 3, "company" : "EDG Architecture"}],
+      "projects" : [{
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+        "project_title": "Shopping mall"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+        "project_title": "Backyard Design"
+      }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 7,
+      "name": "Cecil",
+      "lastname": "Rhodes",
+      "description": "Interior designer",
+      "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "city" : "Sarajevo",
+      "skills" : [ "Budgeting", "Model Making", "Revit"],
+      "experience" : [{"years" : 2, "company" : "Grantony"}],
+      "projects" : [{
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+        "project_title": "Shopping mall"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+        "project_title": "Backyard Design"
+      }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      
+      "id": 8,
+      "name": "Meghan",
+      "lastname": "Ray",
+      "description": "Town planner",
+      "image" : "https://pbs.twimg.com/media/D8dDZukXUAAXLdY.jpg",
+      "city" : "Banja Luka",
+      "skills" : ["Bilingual", "Budgeting", "Data Analyst", "Model Making", "Revit"],
+      "experience" : [{"years" : 2, "company" : "Grantony"}, {"years" : 3, "company" : "mos Archonis Sarajevo"}, {"years" : 4, "company" : "EDG Architecture"}],
+      "projects" : [{
+        "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+        "project_title": "Shopping mall"
+      },
+      {
+        "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+        "project_title": "Backyard Design"
+      }],
+      "socialMedia": [{"facebook" : "https://www.facebook.com/ArchiDesiign",
+      "instagram" : "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter" : "https://twitter.com/HomeAdore",
+      "page" : "https://www.unstudio.com/"}]
+    },
+    {
+      "id": 9,
+      "name": "Jim",
+      "lastname": "Spencer",
+      "description": "Exterior designer",
+      "image": "https://i.pinimg.com/originals/25/3a/bf/253abf4f1f4bc16b6dc04571f8d21624.png",
+      "city": "Sarajevo",
+      "skills": ["Bilingual", "Budgeting", "Drawing", "Revit"],
+      "experience": [
+        { "years": 1, "company": "EDG Architecture" },
+        { "years": 3, "company": "Grantony" }
+      ],
+      "projects": [
+        {
+          "shopping_mall": "https://dspace.mit.edu/bitstream/handle/1721.1/78962/16972128-MIT.pdf?sequence=2",
+          "project_title": "Shopping mall"
+        },
+        {
+          "shopping_mall": "https://www3.uwsp.edu/cnr-ap/UWEXLakes/Documents/ecology/shoreland/landscaping/g1923_planning_designing_home_landscape.pdf",
+          "project_title": "Backyard Design"
+        }
+      ],
+      "socialMedia": [{"facebook": "https://www.facebook.com/ArchiDesiign",
+      "instagram": "https://www.instagram.com/eyrcarchitects/?hl=en",
+      "twitter": "https://twitter.com/HomeAdore",
+      "page": "https://www.unstudio.com/"}]
+    }
+]
