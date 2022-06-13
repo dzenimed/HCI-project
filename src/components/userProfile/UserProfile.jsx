@@ -31,7 +31,7 @@ const UserProfile = (props) => {
             <div>
               <img className="userImage" src={Data[userMatch].image} alt="" />
             </div>
-            <div className="userName">{Data[userMatch].name}</div>
+            <div className="userName">{Data[userMatch].name} {Data[userMatch].lastname}</div>
           </div>
           <div className="userProfileHero">
             <div className='heroTitles'>Projects</div>

@@ -85,7 +85,7 @@ const Card = (props) => {
                   <div className="cardWrapper">
                     <div className="cardTop">
                       <img src={item.image} alt="" className="userImage" />
-                      <div>{item.name}</div>
+                      <div className="fullName">{item.name} {item.lastname}</div>
                       <div>{item.description}</div>
                     </div>
                     <div className="cardButtons">
